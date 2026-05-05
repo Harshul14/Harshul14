@@ -140,8 +140,8 @@ Built a concurrent data layer with custom thread pools and LiveData-driven react
 
 <div align="center">
 
-<img height="180em" src="https://harshul-github-readme-stats.vercel.app.vercel.app.vercel.app.vercel.app/api?username=Harshul14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00ffe7&title_color=00ffe7&icon_color=7928ca"/>
-<img height="180em" src="https://harshul-github-readme-stats.vercel.app.vercel.app.vercel.app.vercel.app/api/top-langs/?username=Harshul14&layout=compact&theme=tokyonight&border_color=00ffe7&title_color=00ffe7"/>
+<img height="180em" src="https://harshul-github-readme-stats.vercel.app/api?username=Harshul14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00ffe7&title_color=00ffe7&icon_color=7928ca"/>
+<img height="180em" src="https://harshul-github-readme-stats.vercel.app/api/top-langs/?username=Harshul14&layout=compact&theme=tokyonight&border_color=00ffe7&title_color=00ffe7"/>
 
 <br/>
 
